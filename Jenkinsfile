@@ -5,7 +5,7 @@ pipeline
                 label
                 {
                         label 'master'
-                        customWorkspace '/mnt/workspace/master'
+                        customWorkspace '/mnt/workspace/22Q1'
                 }
 	}
 
@@ -15,8 +15,8 @@ pipeline
                         {
                                 steps
                                 {
-                                        sh "touch file-master1"
-                                }
+                                        sh "touch file-22Q2"
+	                                }
                         }
                 }
 }
