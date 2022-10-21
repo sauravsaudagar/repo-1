@@ -14,7 +14,7 @@ pipeline
 			{
 				steps
 				{
-					sh "touch file1"
+					sh "touch file-master1"
 				}
 			}	
 		}
