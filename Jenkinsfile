@@ -5,7 +5,7 @@ pipeline
                 label
                 {
                         label 'master'
-                        customWorkspace '/mnt/workspace/22Q1'
+                        customWorkspace '/mnt/workspace/22Q2'
                 }
 	}
 
